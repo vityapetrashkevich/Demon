@@ -1,0 +1,9 @@
+<config>
+    <DirectoryCheck>CSV_Files\list</DirectoryCheck>
+    <DirectoryMockup>CSV_Files\mockup</DirectoryMockup>
+    <DirectoryDone>CSV_Files\Done</DirectoryDone>
+    <DirectoryFailed>CSV_Files\Fail</DirectoryFailed>
+    <Email>vpetrashkevich@deloitte.by</Email>
+    <waitingTime>60</waitingTime>
+    <mail>mkashchenko@deloitte.ru</mail>
+</config>

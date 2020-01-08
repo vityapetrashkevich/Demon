@@ -1,0 +1,435 @@
+INFO:root:The following directories are installed: 
+INFO:root:
+Pre-storage:C:\Users\Viktor\Documents\BAT\CSV_Files\list
+MockUp:C:\Users\Viktor\Documents\BAT\CSV_Files\mockup
+Correct Files:C:\Users\Viktor\Documents\BAT\CSV_Files\Done
+Files with error:C:\Users\Viktor\Documents\BAT\CSV_Files\Fail
+INFO:root:DefaultEmail: vpetrashkevich@deloitte.by
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Found emails saved to files: 0
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:The following directories are installed: 
+INFO:root:
+Pre-storage:CSV_Files\list
+MockUp:CSV_Files\mockup
+Correct Files:CSV_Files\Done
+Files with error:CSV_Files\Fail
+INFO:root:DefaultEmail: vpetrashkevich@deloitte.by
+INFO:root:Number of files found 35
+INFO:root:Number of files rules 35
+INFO:root:Queue formed: 
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupBeru.csv
+INFO:root:File to check: CSV_Files\list\Beru.csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:56:12.229274
+INFO:root:message sent2019-12-18 02:56:13.174799
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Beru.csv and CSV_Files\list\Beru_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupD2CSalesSNS1.csv
+INFO:root:File to check: CSV_Files\list\D2C_Sales_SNS1.csv
+INFO:root:The Operation_date field contains the date
+WARNING:root:Type mismatch: Unit_price_incl_VAT
+WARNING:root:Type mismatch: Unit_discount_rub
+WARNING:root:Type mismatch: Unit_price_incl_discount_and_VAT
+WARNING:root:Type mismatch: Total_value_incl_VAT
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:56:14.460501
+INFO:root:message sent2019-12-18 02:56:15.751996
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\D2C_Sales_SNS1.csv and CSV_Files\list\D2C_Sales_SNS1_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupDistribution.csv
+INFO:root:File to check: CSV_Files\list\Distribution.csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:56:16.851267
+INFO:root:message sent2019-12-18 02:56:17.897846
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Distribution.csv and CSV_Files\list\Distribution_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupEcomSalesSNS1.csv
+INFO:root:File to check: CSV_Files\list\Ecom_Sales_SNS1.csv
+INFO:root:The Operation_date field contains the date
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:56:19.045043
+INFO:root:message sent2019-12-18 02:56:20.005517
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Ecom_Sales_SNS1.csv and CSV_Files\list\Ecom_Sales_SNS1_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupFactSpend.csv
+INFO:root:File to check: CSV_Files\list\Fact_spend_20190730 v1 (1).csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:56:21.087008
+INFO:root:message sent2019-12-18 02:56:22.108005
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Fact_spend_20190730 v1 (1).csv and CSV_Files\list\Fact_spend_20190730 v1 (1)_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupFactSpend.csv
+INFO:root:File to check: CSV_Files\list\Fact_spend_20190730 v1.csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:56:23.185530
+INFO:root:message sent2019-12-18 02:56:24.883016
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Fact_spend_20190730 v1.csv and CSV_Files\list\Fact_spend_20190730 v1_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupFOCFact.csv
+INFO:root:File to check: CSV_Files\list\FOC_Fact.csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:56:25.886999
+INFO:root:message sent2019-12-18 02:56:27.019049
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\FOC_Fact.csv and CSV_Files\list\FOC_Fact_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupGloAudioAuditData.csv
+INFO:root:File to check: CSV_Files\list\GLO_audio_audit_data_20191003.csv
+INFO:root:The Month field contains the date
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:56:27.938917
+INFO:root:message sent2019-12-18 02:56:28.921024
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\GLO_audio_audit_data_20191003.csv and CSV_Files\list\GLO_audio_audit_data_20191003_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupGloRateAuditReport.csv
+INFO:root:File to check: CSV_Files\list\GLO_rate_audit_report_20191003.csv
+INFO:root:The ['start_date_and_time', 'end_date_and_time', 'date_and_time'] field contains the date
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:56:29.882410
+INFO:root:message sent2019-12-18 02:56:30.850251
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\GLO_rate_audit_report_20191003.csv and CSV_Files\list\GLO_rate_audit_report_20191003_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupIContactReport.csv
+INFO:root:File to check: CSV_Files\list\iContact_report_20191009.csv
+INFO:root:The ['DATE', 'FACT_DAILY_STARTED', 'FACT_DAILY_FINISHED'] field contains the date
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:56:31.862490
+INFO:root:message sent2019-12-18 02:56:32.897511
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\iContact_report_20191009.csv and CSV_Files\list\iContact_report_20191009_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupIMSPlan.csv
+INFO:root:File to check: CSV_Files\list\IMS_Plan.csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:56:33.843512
+INFO:root:message sent2019-12-18 02:56:34.976510
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\IMS_Plan.csv and CSV_Files\list\IMS_Plan_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupListOfAgencies.csv
+INFO:root:File to check: CSV_Files\list\List of agencies (1).csv
+INFO:root:No Data
+INFO:root:message sent2019-12-18 02:56:35.875485
+INFO:root:message sent2019-12-18 02:56:38.026487
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\List of agencies (1).csv and CSV_Files\list\List of agencies (1)_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupListOfAgencies.csv
+INFO:root:File to check: CSV_Files\list\List of agencies.csv
+INFO:root:No Data
+INFO:root:message sent2019-12-18 02:56:39.241488
+INFO:root:message sent2019-12-18 02:56:40.348494
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\List of agencies.csv and CSV_Files\list\List of agencies_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupListOfAgents.csv
+INFO:root:File to check: CSV_Files\list\List_of_agents.csv
+INFO:root:The ['Start_Date_work', 'Dismissal_date'] field contains the date
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:56:41.474488
+INFO:root:message sent2019-12-18 02:56:42.467488
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\List_of_agents.csv and CSV_Files\list\List_of_agents_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupManualValidationRaportSA.csv
+INFO:root:File to check: CSV_Files\list\ManualValidationRaport_SA.csv
+INFO:root:The ['Date', 'Date_Birth'] field contains the date
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:56:43.397487
+INFO:root:message sent2019-12-18 02:56:44.311489
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\ManualValidationRaport_SA.csv and CSV_Files\list\ManualValidationRaport_SA_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupMappingSKU.csv
+INFO:root:File to check: CSV_Files\list\MappingSKU.csv
+INFO:root:No Data
+ERROR:root:massage
+Traceback (most recent call last):
+  File "pandas/_libs/lib.pyx", line 1897, in pandas._libs.lib.maybe_convert_numeric
+ValueError: Unable to parse string "Технический код"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "sborka.py", line 650, in secondCheckColTypes
+  File "site-packages\pandas\core\tools\numeric.py", line 150, in to_numeric
+  File "pandas/_libs/lib.pyx", line 1934, in pandas._libs.lib.maybe_convert_numeric
+ValueError: Unable to parse string "Технический код" at position 43
+ERROR:root:massage
+Traceback (most recent call last):
+  File "pandas/_libs/lib.pyx", line 1897, in pandas._libs.lib.maybe_convert_numeric
+ValueError: Unable to parse string "Технический код"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "sborka.py", line 650, in secondCheckColTypes
+  File "site-packages\pandas\core\tools\numeric.py", line 150, in to_numeric
+  File "pandas/_libs/lib.pyx", line 1934, in pandas._libs.lib.maybe_convert_numeric
+ValueError: Unable to parse string "Технический код" at position 43
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "pandas/_libs/lib.pyx", line 1897, in pandas._libs.lib.maybe_convert_numeric
+ValueError: Unable to parse string "Технический код"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "sborka.py", line 677, in allTrace
+  File "site-packages\pandas\core\tools\numeric.py", line 150, in to_numeric
+  File "pandas/_libs/lib.pyx", line 1934, in pandas._libs.lib.maybe_convert_numeric
+ValueError: Unable to parse string "Технический код" at position 8
+WARNING:root:Type mismatch: Unnamed: 5
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:56:45.433489
+INFO:root:message sent2019-12-18 02:56:46.401486
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\MappingSKU.csv and CSV_Files\list\MappingSKU_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupMaping.csv
+INFO:root:File to check: CSV_Files\list\mapping_20191009.csv
+INFO:root:No Data
+INFO:root:message sent2019-12-18 02:56:47.366491
+INFO:root:message sent2019-12-18 02:56:48.297490
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\mapping_20191009.csv and CSV_Files\list\mapping_20191009_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupNGPLoadingRepeated.csv
+INFO:root:File to check: CSV_Files\list\NGP_Loading_Repeated.csv
+INFO:root:The Day field contains the date
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:56:49.260510
+INFO:root:message sent2019-12-18 02:56:50.154489
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\NGP_Loading_Repeated.csv and CSV_Files\list\NGP_Loading_Repeated_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupOffTakePlan.csv
+INFO:root:File to check: CSV_Files\list\Off_take_Plan.csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:56:51.093486
+INFO:root:message sent2019-12-18 02:56:52.004495
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Off_take_Plan.csv and CSV_Files\list\Off_take_Plan_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupPlanGlo.csv
+INFO:root:File to check: CSV_Files\list\plan_Glo.csv
+INFO:root:The month field contains the date
+INFO:root:message sent2019-12-18 02:56:52.973492
+INFO:root:message sent2019-12-18 02:56:53.897486
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\plan_Glo.csv and CSV_Files\list\plan_Glo_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupPlanNumberOfBA.csv
+INFO:root:File to check: CSV_Files\list\Plan_number_of_BA_20190930 (1).csv
+INFO:root:The Period field contains the date
+INFO:root:message sent2019-12-18 02:56:54.889492
+INFO:root:message sent2019-12-18 02:56:55.996492
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Plan_number_of_BA_20190930 (1).csv and CSV_Files\list\Plan_number_of_BA_20190930 (1)_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupPlanNumberOfBA.csv
+INFO:root:File to check: CSV_Files\list\Plan_number_of_BA_20190930.csv
+INFO:root:The Period field contains the date
+INFO:root:message sent2019-12-18 02:56:57.093814
+INFO:root:message sent2019-12-18 02:56:58.232813
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Plan_number_of_BA_20190930.csv and CSV_Files\list\Plan_number_of_BA_20190930_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupPlanNumberOfPM.csv
+INFO:root:File to check: CSV_Files\list\Plan_number_of_PM_20190930 (1).csv
+INFO:root:The Period field contains the date
+INFO:root:message sent2019-12-18 02:56:59.170816
+INFO:root:message sent2019-12-18 02:57:00.224817
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Plan_number_of_PM_20190930 (1).csv and CSV_Files\list\Plan_number_of_PM_20190930 (1)_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupPlanNumberOfPM.csv
+INFO:root:File to check: CSV_Files\list\Plan_number_of_PM_20190930.csv
+INFO:root:The Period field contains the date
+INFO:root:message sent2019-12-18 02:57:01.184816
+INFO:root:message sent2019-12-18 02:57:02.206812
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Plan_number_of_PM_20190930.csv and CSV_Files\list\Plan_number_of_PM_20190930_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupPopupBudget.csv
+INFO:root:File to check: CSV_Files\list\popup_budget_20191003.csv
+INFO:root:The Month field contains the date
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:57:03.140815
+INFO:root:message sent2019-12-18 02:57:04.237837
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\popup_budget_20191003.csv and CSV_Files\list\popup_budget_20191003_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupPopUpSalesSNS1.csv
+INFO:root:File to check: CSV_Files\list\PopUp_Sales_SNS1.csv
+INFO:root:The Operation_date field contains the date
+WARNING:root:Type mismatch: Unit_price_incl_VAT 
+WARNING:root:Type mismatch:  Unit_discount_rub
+WARNING:root:Type mismatch: Unit_price_incl_discount_and_VAT 
+WARNING:root:Type mismatch: Total_value_ incl_VAT 
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:57:05.646812
+INFO:root:message sent2019-12-18 02:57:06.562812
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\PopUp_Sales_SNS1.csv and CSV_Files\list\PopUp_Sales_SNS1_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupRecruitmentFunnel.csv
+INFO:root:File to check: CSV_Files\list\Recruitment_funnel_20190830 (1).csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:57:07.714820
+INFO:root:message sent2019-12-18 02:57:08.688812
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Recruitment_funnel_20190830 (1).csv and CSV_Files\list\Recruitment_funnel_20190830 (1)_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupRecruitmentFunnel.csv
+INFO:root:File to check: CSV_Files\list\Recruitment_funnel_20190830.csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:57:09.815816
+INFO:root:message sent2019-12-18 02:57:10.887816
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Recruitment_funnel_20190830.csv and CSV_Files\list\Recruitment_funnel_20190830_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupSalesPlanPM.csv
+INFO:root:File to check: CSV_Files\list\Sales_plan_PM_20190930 (1).csv
+INFO:root:The Period field contains the date
+INFO:root:message sent2019-12-18 02:57:11.825379
+INFO:root:message sent2019-12-18 02:57:12.778890
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Sales_plan_PM_20190930 (1).csv and CSV_Files\list\Sales_plan_PM_20190930 (1)_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupSalesPlanPM.csv
+INFO:root:File to check: CSV_Files\list\Sales_plan_PM_20190930.csv
+INFO:root:The Period field contains the date
+INFO:root:message sent2019-12-18 02:57:13.929569
+INFO:root:message sent2019-12-18 02:57:15.509565
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Sales_plan_PM_20190930.csv and CSV_Files\list\Sales_plan_PM_20190930_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupShipmentsPlan.csv
+INFO:root:File to check: CSV_Files\list\Shipments_Plan.csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:57:16.598652
+INFO:root:message sent2019-12-18 02:57:17.526230
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Shipments_Plan.csv and CSV_Files\list\Shipments_Plan_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupSNSWorkdays.csv
+INFO:root:File to check: CSV_Files\list\SNS_Workdays.csv
+INFO:root:The Period field contains the date
+INFO:root:message sent2019-12-18 02:57:18.497422
+INFO:root:message sent2019-12-18 02:57:19.440897
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\SNS_Workdays.csv and CSV_Files\list\SNS_Workdays_rules.txt move to CSV_Files\Done
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupTHPSHPreport1.csv
+INFO:root:File to check: CSV_Files\list\THP_SHP_report1.csv
+INFO:root:The Data field contains the date
+WARNING:root:Type mismatch: Customer_number
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:57:20.672544
+INFO:root:message sent2019-12-18 02:57:21.638284
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\THP_SHP_report1.csv and CSV_Files\list\THP_SHP_report1_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupV3.csv
+INFO:root:File to check: CSV_Files\list\V3_20191009.csv
+INFO:root:No Data
+WARNING:root:File contains errors!!!
+INFO:root:message sent2019-12-18 02:57:22.626353
+INFO:root:message sent2019-12-18 02:57:23.551576
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\V3_20191009.csv and CSV_Files\list\V3_20191009_rules.txt move to CSV_Files\Fail
+INFO:root:files check: 
+INFO:root:Mockup File: CSV_Files\mockup/MockupVapeVardex1.csv
+INFO:root:File to check: CSV_Files\list\Vape_Vardex1.csv
+INFO:root:The Date field contains the date
+INFO:root:message sent2019-12-18 02:57:24.663650
+INFO:root:message sent2019-12-18 02:57:25.585269
+WARNING:root:The verification succeeds
+INFO:root:files checked, move request ready: 
+INFO:root:Files: CSV_Files\list\Vape_Vardex1.csv and CSV_Files\list\Vape_Vardex1_rules.txt move to CSV_Files\Done
+INFO:root:file processing completed, pause: 60sec
+INFO:root:Number of files found 0
+INFO:root:Number of files rules 0
+INFO:root:Queue formed: 
+INFO:root:no new files found next search in 60 seconds
+INFO:root:Found emails saved to files: 0

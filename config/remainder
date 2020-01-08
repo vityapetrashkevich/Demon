@@ -1,0 +1,5 @@
+from Reminder import Reminder
+
+
+obj = Reminder()
+obj.Start()
